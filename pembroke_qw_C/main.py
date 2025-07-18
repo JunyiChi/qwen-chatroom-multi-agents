@@ -5,7 +5,7 @@ from memory_manager import MemoryManager
 import dashscope
 
 # 设置 DashScope API Key
-dashscope.api_key = "sk-cf9b5fd942224ebf9b88943331fa7e84"
+dashscope.api_key = "请输入你的 DashScope API Key"
 
 # 设定角色
 agents = {
